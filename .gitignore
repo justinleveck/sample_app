@@ -23,3 +23,5 @@ doc/
 .DS_Store
 .idea
 bundler_stubs/
+bin/rspec
+bin/spring
